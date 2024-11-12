@@ -1,4 +1,4 @@
-<div dir='rtl' lang='he'>
+![image](https://github.com/user-attachments/assets/428f6791-7503-4718-b710-16431740c21c)<div dir='rtl' lang='he'>
 
 # כותרת ראשית: GoFast3
 
@@ -11,8 +11,8 @@
 במשחק זה תסעו עם אופנוע לאורך מסלול מורכב כאשר מטרת העל שלכם היא להגיע בהצלחה לקו הסיום.
 
 המשחק מיועד למכשירים ניידים
+![Designer (1)](https://github.com/user-attachments/assets/0e5d18ee-182e-4b3d-9ef4-17f9678d822d)
 
-שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
 
 ---
 
